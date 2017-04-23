@@ -1,0 +1,15 @@
+{
+  "name": "raket/router",
+  "authors": [
+	{
+	  "name": "Marcus Dalgren",
+	  "email": "marcus@raket.nu"
+	}
+  ],
+  "require": {},
+  "autoload": {
+	"psr-4": {
+	  "Raket\\": "src/Raket"
+	}
+  }
+}
